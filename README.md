@@ -1,21 +1,42 @@
-# cocfc4e5ca46a7b2cb13d6bf3
+# Movie Night App
 
-Quick start:
+Welcome to the Movie Night app repository! This lightweight app lets you manage a shared movie list with your friends or roommates, all connected to a real-time database for seamless collaboration.
 
-```
-$ npm install
-$ npm start
-````
+Quick Start
+Clone the Repository:
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+bash
+Copy code
+git clone https://github.com/your-username/movie-night.git
+Set Up Firebase:
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Create a Firebase project at Firebase Console.
+Set up a Realtime Database.
+Copy the Firebase configuration to .env in the project root.
+Install Dependencies and Start:
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+bash
+Copy code
+npm install
+npm start
+Your app will be running at http://localhost:3000.
 
-Happy Coding!
+Features
+Shared Movie List:
+
+Create and maintain a list of movies to watch together.
+Real-time updates keep everyone in the loop.
+Easy to Use:
+
+Add movies with a simple input field.
+Click on a movie to remove it from the list.
+Contributing
+We welcome contributions! If you want to enhance the app, please fork the repository, create a new branch, make your changes, and submit a pull request.
+
+Issues
+If you encounter any issues or have suggestions, please check the Issues section.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Enjoy your Movie Night! 🎬🍿
