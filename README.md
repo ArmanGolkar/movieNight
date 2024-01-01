@@ -33,10 +33,5 @@ Click on a movie to remove it from the list.
 Contributing
 We welcome contributions! If you want to enhance the app, please fork the repository, create a new branch, make your changes, and submit a pull request.
 
-Issues
-If you encounter any issues or have suggestions, please check the Issues section.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Enjoy your Movie Night! 🎬🍿
