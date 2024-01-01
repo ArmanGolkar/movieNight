@@ -7,7 +7,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/movie-night.git
+git clone https://github.com/ArmanGolkar/movieNight.git
 Set Up Firebase:
 
 Create a Firebase project at Firebase Console.
